@@ -1,4 +1,4 @@
-# snake2d-opp
+# Snake game 2d
 Простая игра змейка на JavaScript(без библиотек)
 
 # Как использовать
@@ -6,6 +6,4 @@
 - http-server
 
 # Дополнительно
-- Процесс создания [тут](https://youtu.be/yq4x4zSSz70)
-
 > ![Screen 1](screen/welcome.png)
