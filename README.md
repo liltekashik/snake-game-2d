@@ -8,6 +8,7 @@
 
 ```bash
 git clone https://github.com/liltekashik/snake-game-2d.git
+
 cd snake-game-2d
 ```
 
